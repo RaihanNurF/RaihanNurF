@@ -1,0 +1,14 @@
+body {
+  min-height: 2800px;
+}
+
+.jumbotron {
+  padding-top: 6rem;
+  background-color: #47348b;
+}
+
+#karya {
+  background-image: url(img/city3.jpg);
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+}
